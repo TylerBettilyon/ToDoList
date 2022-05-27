@@ -8,5 +8,6 @@ After finishing this project, I should be able to:
 * Add new tasks
 * Delete finished tasks
 * Edit existing tasks
-* Add descriptions to tasks
+* Add, edit, and delete descriptions for tasks
+* Add, edit, and delete dates for tasks
 * Show urgent and non-urgent tasks

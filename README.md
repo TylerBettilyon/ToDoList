@@ -4,7 +4,7 @@
 
 After finishing this project, I should be able to:
 
-* Read current pending tasks
+* Read current pending tasks by title
 * Add new tasks
 * Delete finished tasks
 * Edit existing tasks
